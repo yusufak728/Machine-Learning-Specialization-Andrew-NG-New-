@@ -1,4 +1,4 @@
-# Machine-Learning-Specialization-Andrew-NG-New Course-
+# Machine-Learning-Specialization-New Course-
 
 These are the programming assignments involved with the Machine Learning Specialization course.
 This specialization has three modules.
